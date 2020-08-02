@@ -7,6 +7,7 @@ import { faStar, faAward, faCode, faUser } from '@fortawesome/free-solid-svg-ico
 function Candidate(props) {
     const [message, setMessage] = useState('');
     const data = props.data;
+    const viewOption = props.viewOption;
     console.log(data);
 
     let closeView = () => {
