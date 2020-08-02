@@ -1,0 +1,33 @@
+.login-container{
+    height: 440px;
+    width: 35%;
+    box-shadow: 0 1px 8px 0 rgb(61, 60, 60);
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-top: 10%;
+  }
+  
+  .input-text{
+    text-align: center;
+    margin-left: 5%;
+    width: 80%;
+    padding: 20px;
+    border: solid rgb(233, 232, 232);
+    border-radius: 5px;
+  }input{
+    margin-top: 20px;
+  }
+  
+  .signInBUtton{
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(113, 176, 218);
+    padding: 20px;
+    margin-left: 35%;
+    border-radius: 5px;
+    width: 30%;
+    color: white;
+    font: bold;
+    font-size: 20px;
+  }

@@ -1,0 +1,35 @@
+.candidate-select-view{
+    width: 50%;
+}
+
+.selected-candidate{
+    margin-top: 20px;
+    padding: 20px;
+}
+.selected-candidate p{
+    margin-right: 5px;
+}
+
+.candidate-expertise{
+    padding: 10px;
+    box-shadow: 0px 0px 5px 0 rgb(206, 206, 206);
+}
+
+.voter-buttons{
+    cursor: pointer;
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+    width: 50px;
+    height: 28px;
+    color: white;
+    margin: 10px;
+}
+
+.blue{
+    background-color: rgb(46, 79, 122);
+}
+
+.red{
+    background-color: rgb(196, 127, 106);
+}

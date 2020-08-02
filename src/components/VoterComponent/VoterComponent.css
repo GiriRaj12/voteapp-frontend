@@ -1,0 +1,46 @@
+.voter-list-view{
+    height: 600px;
+    width: 50%;
+    padding: 20px;
+    overflow: scroll;
+}
+
+
+.voter-container-holder{
+    display: flex;
+}
+
+.voter-list-view_element{
+    margin: 20px auto;
+    box-shadow: 0 0 10px 1px rgb(206, 206, 206);
+    padding: 10px;
+}
+
+.voter-list-view_element a{
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 500;
+    color: black;
+    cursor: pointer;
+}
+
+.voter-avatar{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: teal;
+    font-size: 28px;
+    text-align: center;
+    color: white;
+}
+.voter-avatar-name{
+    padding: 5px;
+}
+
+.voter-element-votes{
+    float: right;
+}
+
+.voter-select-view{
+    width: 50%;
+}
